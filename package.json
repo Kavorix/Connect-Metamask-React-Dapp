@@ -1,7 +1,7 @@
 {
   "name": "connect-metamask-react-dapp",
   "version": "0.1.0",
-  "author": "Jacob E. Dawson",
+  "author": "kavorix",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^1.0.14",

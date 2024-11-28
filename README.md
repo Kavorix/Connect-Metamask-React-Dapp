@@ -1,4 +1,4 @@
-# COnnect Metamask React Dapp
+# Connect Metamask React Dapp
 
 ### Before started:
 
